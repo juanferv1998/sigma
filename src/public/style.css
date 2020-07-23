@@ -1,0 +1,49 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{
+    background: white;
+}
+.logo{
+
+    
+    text-align: center;
+    margin-top: 48px;
+
+}
+header {
+    text-align: center;
+    margin-top: 35px;
+    font-family:'Roboto', sans-serif; 
+}
+header .contenido{
+    margin-top: 15px;
+    color: 	#777777;
+
+    font-size: 15px;
+}
+.container {
+    text-align: center;
+    
+    margin-top: 48px;
+
+}
+
+.formulario{
+    font-family:'Roboto', sans-serif;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.form-group{
+    text-align: left;
+}
+
+
+.boton-enviar{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:	#e03b65;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
